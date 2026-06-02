@@ -1,2 +1,2 @@
 # Jordan-QA-Portfolio
-Repo for my sample QA related items.
+QA Portfolio — Test Plan, Test Cases, Bug Report & Telemetry Analysis of my own LoL Match.
