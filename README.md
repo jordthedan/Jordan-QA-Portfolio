@@ -18,7 +18,7 @@ system in an unpublished R&D multiplayer title.
 Full test suite covering happy paths, negative scenarios, 
 edge cases and cross-platform validation.
 
-→ [View](./test-cases/RD_Sample_Test_Cases.xlsx)
+→ [View](./test-cases/Sample_Test_Cases.xlsx)
 
 ---
 
