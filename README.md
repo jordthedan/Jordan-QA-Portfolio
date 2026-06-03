@@ -10,7 +10,7 @@ Business Test Analyst | ISTQB CTFL 4.0 | Sydney, NSW
 End-to-end test strategy for an in-game purchases and gifting 
 system in an unpublished R&D multiplayer title.
 
-→ [View](./test-plan/RD_Test_Plan_v1.0.docx)
+→ [View](./test-plan/Sample Test Plan (R&D).docx)
 
 ---
 
